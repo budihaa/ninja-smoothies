@@ -1,6 +1,7 @@
 # ninja-smoothies
 
 > First vue project
+Create smoothies recipes and store data on Firebase
 
 ## Build Setup
 
